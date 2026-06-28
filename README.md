@@ -36,7 +36,7 @@ The model classifies leaf images into different categories such as:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - Python   
 - TensorFlow / Keras   
