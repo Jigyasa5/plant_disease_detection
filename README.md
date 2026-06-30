@@ -58,5 +58,5 @@ The model classifies leaf images into different categories such as:
 
 ## Model Performance
 
-- Training Accuracy: ~91%  
-- Validation Accuracy: ~88%  
+- Training Accuracy: ~97%  
+- Validation Accuracy: ~92%  
